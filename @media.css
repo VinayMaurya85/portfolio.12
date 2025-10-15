@@ -1,0 +1,75 @@
+@media  (min-width:991px){
+    #myselect{
+        display: none;
+    }
+    #github{
+        margin-left: 150px ;
+        margin-right: -24px   ;
+        padding-right: 10px;
+        
+    }
+    #linked{
+        margin-left: 15px;
+        margin-bottom: 9px;
+       
+    }
+  }
+  @media(max-width:991px)
+  {
+    .icon .color{
+        display: none;
+    }
+    #github{
+        display: none;
+    }
+    #linked{
+        display: none;
+    }
+     #vinay{
+        margin-left: -70px;
+     }
+     #nextpage{
+        overflow: hidden;
+     }
+      #vinayimage{
+        margin-top: -650px;
+        margin-right: 320px;
+      }
+      .hii{
+        margin-top: 306px;
+        margin-left: 330px;
+      }
+      .ami{
+        margin-left: 420px;
+      }
+      .paracolor{
+        margin-left: 230px;
+      }
+      .download{
+        margin-left: 420px;
+      }
+      #page{
+        margin-left: 120px;
+      }
+      #page img{
+    margin-left: 540px;
+        height: 250px;
+        width: 190px;
+      }
+      .div{
+        width: 280px;
+        height: 400px;
+      }
+    .div #h1{
+        margin-bottom: 50px;
+    }
+     .column1{
+        height: 210px;
+  width: 600px;
+  margin-left: 190px;
+     }
+.box{
+ margin-left: 180px;
+}
+
+  }

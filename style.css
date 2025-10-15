@@ -1,0 +1,536 @@
+body{
+    background-color: #11111f;
+       margin: 0px;
+     color: white;
+     width: 100%;
+    
+    
+     
+
+}
+html{
+  scroll-behavior: smooth;
+   
+  
+}
+ 
+ 
+#vinay{
+      
+    
+  font-size: 2rem;
+  text-transform: uppercase;
+   font-weight: bolder;
+   margin-right: 12%;
+   transition: all;
+   filter: brightness(120%);
+}
+ 
+.changetime:hover{
+   
+transition-duration: 2s;
+color: #ED3F27;
+font-size: 34px;
+}
+
+ 
+
+
+  .icon{
+      
+      
+    background-color: rgba(10, 10, 20, 0.8);
+    height: 60px;
+    width: 100%;
+      
+     display: flex;
+      padding-top: 15px;
+      justify-content: space-around;
+      position:fixed;
+      transition-property: all;
+      
+    filter: brightness(120%) drop-shadow(0 0 20px black);
+      
+      
+    
+  }
+  #myselect{
+    font-size: 10px;
+    height: 25px;
+    margin-right:-80px ;
+    margin-top: 10px;
+  }
+  
+     
+     
+
+
+    
+  
+#linked{
+  padding-top: 14px;
+  border-radius:10px;
+}
+#linked:hover{
+  transition-duration: 2s;
+ transform: scale(1.1);
+}
+#github{
+   
+  transition: all;
+  border-radius: 50%;
+}
+#github:hover{
+transition-duration: 2s;
+ transform: scale(1.1);
+}
+#gap{
+  height: 250px;
+}
+#vinayimage{
+  border-radius: 50%;
+  border: 7px solid #3B1C32;
+  display: flex; 
+  margin-top: -300px;
+  margin-right: 140px;
+  transition: all;
+  height: 350px;
+  width: 350px;
+  border: 4px solid skyblue;
+  
+  
+  
+   
+  
+   
+  
+}
+ 
+#vinayimage:hover{
+   transition-duration: 3s;
+    transform: scale(1.1);
+   cursor:pointer;
+   filter:   brightness(120%) drop-shadow(0 0 20px skyblue);
+ 
+}
+.color{
+  color: white;
+  font-size: 18px;
+   
+}
+
+.color:hover{
+  transition-duration: 1s;
+  font-size: 19px;
+}
+.icon :hover{
+  cursor: pointer;
+  color: #ED3F27;
+   
+ 
+}
+.paracolor{
+  color: skyblue;
+  display: flex;
+  margin-left: 160px;
+}
+.hii{
+   
+  margin-left: 200px;
+  font-weight:bolder;
+}
+.ami{
+  display: flex;
+  margin-left: 190px;
+  margin-bottom: -30px;
+  margin-top: -35px;
+}
+ 
+#gap2{
+  height: 140px;
+   
+}
+.download{
+  
+  border: 2px solid #E62727;
+  color: white;
+  border-radius: 20px;
+  padding: 7px;
+  margin-left: 300px;
+  text-decoration: none;
+  transition-property: all;
+  transition-duration: 1s;
+  background-color: #E62727;
+ 
+  
+}
+.download:hover{
+  background-color: #ED3F27;
+  /* border-color: skyblue; */
+  font-size: 25px;
+  filter: brightness(120%) drop-shadow(0 0 15px #E62727);
+  
+   
+   
+}
+#nextpage{
+  background-color:  #0f0c1e;
+  width: 100%;
+  height: 4900px;
+  overflow: hidden;
+   
+   
+    
+   
+  
+   
+}
+#nextpage2{
+  display: flex;
+  justify-content: center;
+}
+.skill{
+  height: 250px;
+  width: 310px;
+  border:4px solid #E62727;
+ margin-right: 60px;
+  border-radius: 20px;
+  color: #F3F2EC;
+}
+.skill1{
+   text-align: center;
+   padding-top: 100px;
+   
+  
+}
+.skill1 h1{
+   font-size: 44px;
+   margin-bottom: -20px;
+}
+ .skill1 h3{
+  color: skyblue;
+ }
+ #para1{
+  margin-left: 65px;
+  text-align: center;
+  background-color: #211832;
+  
+ }
+ .skill a{
+  text-decoration: none;
+   
+  padding: 9px;
+  font-size: 30px;
+  border-radius: 20px;
+   margin-right: 19px;
+  color: #DCDCDC;
+  background-color: #E62727;
+  transition: all;
+  
+}
+.skill a:hover{
+  transition-duration: 1s;
+font-size: 35px;
+filter: brightness(120%) drop-shadow(0 0 20px #E62727);
+
+}
+ 
+#para2{
+  text-align: center;
+  background-color: #211832;
+
+}
+#para3{
+  text-align: center;
+  background-color: #211832;
+  
+}
+#exp h1 {
+  font-size: 44px;
+ 
+  text-align: center;
+  margin-top: 200px;
+}
+#gap4{
+  margin-bottom:100px ;
+}
+#gap5{
+  margin-bottom:100px ;
+}
+#page{
+  border: 2px solid black ;
+  width: 76%;
+  height: 500px; 
+  
+  margin-left: 160px;
+  background-color: black;
+  border-radius: 9px;
+
+}
+#page h1{
+   text-align: center;
+}
+ #page h3{
+  margin-left: 5px;
+  display: flex;
+ }
+ #page img{
+  height: 370px;
+  width: 270px;
+  margin-left: 700px;
+  margin-top: -200px;
+
+}
+
+.div{
+  width: 400px;
+  height: 400px;
+  border:4px solid #ED3F27;
+  border-radius: 9px;
+  
+}
+#gap7{
+  margin-bottom: 100px;
+}
+ 
+#project{
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+#project1{
+  text-align: center;
+}
+#project1 h1{
+  font-size: 44px;
+  margin-top: 200px;
+}
+.div{
+  font-size: 18px;
+  background-color: #211832;
+}
+.div a{
+ 
+  padding: 9px;
+  font-size: 25px;
+  border-radius: 9px;
+  text-decoration: none;
+  color:white;
+  background-color: #E62727;
+  transition: all;
+  
+   
+  /* box-shadow: 5px 5px 5px 5px #ED3F27; */
+}
+.div a:hover{
+transition-duration:1s ;
+font-size:28px ;
+filter: brightness(120%) drop-shadow(0 0 20px #E62727);
+}
+#edu h1{
+  margin-top: 200px;
+}
+#edu{
+ text-align: center;
+}
+#edu h2{
+  filter: brightness(70%);
+}
+ 
+.column1{
+  height: 210px;
+  width: 700px;
+  border: 2px solid skyblue ;
+  border-radius: 9px;
+ margin-left: 300px;
+ margin-bottom: 50px;
+  
+ 
+}
+.column1:hover{
+  filter: brightness(100%) drop-shadow(0 0 12px skyblue);
+  cursor: pointer;
+}
+ #edu h1{
+  font-size: 44px;
+}
+ .column1 img{
+  height: 60px;
+  width: 60px;
+  border-radius: 6px;
+  margin-left: 18px;
+  margin-top: 18px;
+
+ }
+ .column1 h2{
+  margin-left: 90px;
+  margin-top: -59px;
+  margin-bottom: 60px;
+     
+ }
+.column1 p{
+  margin-left: 90px;
+  margin-top: -53px;
+  filter: brightness(70%);
+}
+ .column1 h3{
+  margin-left:18px;
+ }
+ .column1 h4{
+  margin-top: -20px;
+  margin-left:18px;
+ }
+ .contact{
+  text-align: center  ;
+ }
+  
+ .contact h1{
+  margin-top: 200px;
+  font-size: 44px;
+  
+ }
+ .contact h3{
+  filter: brightness(70%);
+ }
+ .box{
+  width: 620px;
+  height: 640px;
+  border: 2px solid skyblue;
+border-radius: 13px;
+  margin-left: 350px;
+  margin-top: 80px;
+  text-align: center;
+  background-color: #11111f;
+ }
+ .box h1{
+   color: skyblue;
+   margin-bottom: 40px;
+   
+ }
+ .input{
+  background-color:  white;
+  color: black          ;
+  font-size: 20px;
+  padding: 10px;
+  width: 500px;
+  border-radius: 9px;
+   padding-left: 50px;
+   margin-bottom: 30px;
+  
+   
+ }
+ .input:focus{
+  border: 4px solid blue;
+  
+
+ }
+    .image2{
+     background-color: white;
+      position: absolute;
+      margin-top: 8px;
+      margin-left: 7px;
+       
+      
+    }
+    #message{
+      width: 500px;
+      font-size: 20px;
+      padding: 10px;
+      padding-right: 50px;
+      border-radius: 9px;
+      padding-bottom: 150px;
+      margin-bottom: 30px;
+       
+    }
+    #message:focus{
+    border: 4px solid blue;
+    }
+    #submit{
+
+    }
+    @media(max-width:800px){
+      .uma{
+        width: 80vw;
+      }
+
+
+    }
+    #button{
+      font-size: 20px;
+      padding: 7px;
+      padding-left: 16px;
+      padding-right: 16px;
+      border-radius: 20px;
+      background-color: #ED3F27;
+      color: white;
+    }
+    #reset{
+      font-size: 20px;
+      padding: 7px;
+      padding-left: 16px;
+      padding-right: 16px;
+      border-radius: 20px;
+      background-color: #ED3F27;
+      color: white;
+    }
+     #call{
+      height: 1px;
+      width: 100%;
+       margin-top: 70px;
+       margin-bottom: 65px;
+      background-color: white;
+     }
+      .lalu{
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        margin-bottom: 45px;
+      }
+      #kumar1 a{
+        color: skyblue;
+        text-decoration: none;
+        font-size:38px ;
+        font-weight: bolder;
+      }
+      .menu{
+        margin-bottom: 40px;
+      }
+      .menu a{
+        text-decoration: none;
+        color: white;
+        transition: all;
+        margin-left: 40px;
+        font-size: 18px;
+        filter: brightness(70%);
+        
+      }
+      .people{
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+      }
+      .menu a:hover{
+       transition-duration:1s ;
+       color: #ED3F27;
+      }
+      .media img{
+        width: 25px;
+        height: 25px;
+        margin-right: 20px;
+        filter: brightness(70%);
+      }
+        .media1{
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+
+        }
+        .vidya h4{
+          filter: brightness(70%);
+        }
+        .dev{
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+        }
+      
